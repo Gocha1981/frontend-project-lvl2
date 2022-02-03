@@ -12,3 +12,4 @@ node_modules/commander/lib/help.js
 node_modules/commander/lib/option.js
 node_modules/commander/lib/suggestSimilar.js
 node_modules/commander/typings/index.d.ts
+node_modules
